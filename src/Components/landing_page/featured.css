@@ -1,0 +1,24 @@
+.featured{
+    width: 100%;
+    height: 119px;
+    background-color: #ABABAB;
+}
+.flex_item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container2{
+    width: 20vw;
+    height: 40px;
+    background-color: white;
+    margin-left: 8px;
+}
+.featured_item{
+    width: 81;
+}
+.featured{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
